@@ -8,6 +8,6 @@
  ![Site 1](https://github.com/ericcastroc/LeagueOfLegends-Login/blob/main/images/Site-1.png?raw=true)
 
  
-Acesse o site você mesmo [League Of Legends:beginner:](https://ericcastroc.github.io/LeagueOfLegends-Login/index.hmtl)
+Acesse o site você mesmo [League Of Legends:beginner:](https://ericcastroc.github.io/LeagueOfLegends-Login/index.html)
 
 
