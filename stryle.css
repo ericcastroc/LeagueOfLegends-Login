@@ -266,7 +266,7 @@ main {
   }
 }
 
-@media(max-width: 1359px){
+@media(max-width: 1360px){
   
   .wallpaper-label--checkbox{
     margin-top: 500px;
@@ -290,7 +290,7 @@ main {
     justify-content: space-between;
     width: 100%;
     max-width: 500px;
-    max-height: 620px;
+    max-height: 617px;
     min-height: 100vh;
     padding: clamp(35px, 8%, 70px);
   }
