@@ -198,14 +198,14 @@ main {
 
 .wallpaper {
     width: 100%;
-    background: url('./images/champion-akali-splash.jpg');
+    background: url('https://github.com/ericcastroc/LeagueOfLegends-Login/blob/main/images/champion-akali-splash.jpg?raw=true');
     background-size: cover;
     background-position: center;
     flex: 1;
 }
 .wallpaper-animation{
   width: 100%;
-  background: url('./images/c-o-champion-akali-animated-splash.gif');
+  background: url('https://github.com/ericcastroc/LeagueOfLegends-Login/blob/main/images/c-o-champion-akali-animated-splash.gif?raw=true');
   background-size: cover;
   background-position: center;
   flex: 1;
