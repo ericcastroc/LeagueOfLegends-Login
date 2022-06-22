@@ -198,8 +198,42 @@ main {
 
 .wallpaper {
     width: 100%;
-    background-image: url('./images/wallpaper-jax-noanimation.jpg');
+    background: url('./images/champion-akali-splash.jpg');
     background-size: cover;
     background-position: center;
     flex: 1;
 }
+.wallpaper-animation{
+  width: 100%;
+  background: url('./images/c-o-champion-akali-animated-splash.gif');
+  background-size: cover;
+  background-position: center;
+  flex: 1;
+}
+
+.wallpaper-label--checkbox{
+  margin-top: 798px;
+  margin-left: 20px;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  background-color: var(--light-grey);
+  margin-right: 8px;
+  border-radius: 3px;
+}
+
+.wallpaper-label--checkbox:checked {
+  background-color: var(--red);
+}
+
+.wallpaper-label--checkbox:checked::after {
+  content: "";
+  display: block;
+  width: 5px;
+  height: 10px;
+  border: 3px solid white;
+  border-width: 0 3px 3px 0;
+  transform: rotate(45deg);
+  margin: 2px 6px;
+}
+
