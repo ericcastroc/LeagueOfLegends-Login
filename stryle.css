@@ -237,3 +237,13 @@ main {
   margin: 2px 6px;
 }
 
+@media(max-width: 500px){
+
+  .wallpaper{
+    display: none;
+  }
+
+  .wallpaper-animation{
+    display: none;
+  }
+}
