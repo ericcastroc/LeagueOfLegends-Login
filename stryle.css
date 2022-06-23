@@ -248,7 +248,8 @@ main {
   }
 }
 
-@media(max-width: 1380px){
+
+@media(max-width: 1366px){
   
   .wallpaper-label--checkbox{
     margin-top: 500px;
@@ -260,29 +261,7 @@ main {
     margin-right: 8px;
     border-radius: 3px;
   }
-
-  .login{
-    padding: 65px;
-  }
-}
-
-@media(max-width: 1360px){
-  
-  .wallpaper-label--checkbox{
-    margin-top: 500px;
-    margin-left: 20px;
-    appearance: none;
-    width: 20px;
-    height: 20px;
-    background-color: var(--light-grey);
-    margin-right: 8px;
-    border-radius: 3px;
-  }
-  
-  .wrapper{
-    height: 
-  }
-  
+   
   .login {
     display: flex;
     flex-direction: column;
